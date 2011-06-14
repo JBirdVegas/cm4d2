@@ -1,0 +1,10 @@
+Hey all JBirdVegas here I hope you can help
+
+OK Thanks to cvpcs for all his work on Droid X CM Port 
+Most of the initial commits are just shadow changed to droid2
+
+His source I forked to start with is @ github.com/cvpcs
+
+Thanks to The CyanogenMod Project for the awesome ROM!
+
+This is experimental and you should be booting with logcat running as you may bootloop durring the hijack ... what can I say it's an ALPHA release
