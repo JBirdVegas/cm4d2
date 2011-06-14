@@ -276,8 +276,8 @@
 
 <!-- These are the packages we track for experimental droid2 CM -->
   <project path="cm4d2" name="JBirdVegas/android" remote="github" revision="master" />
+  <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" />
   <project path="vendor/motorola/droid2" name="JBirdVegas/proprietary_vendor_motorola_droid2" remote="github" revision="master" />
   <project path="device/motorola/droid2" name="JBirdVegas/android_device_motorola_droid2" remote="github" revision="gingerbread" />
   <project path="vendor/cyanogen" name="JBirdVegas/android_vendor_cyanogen" remote="github" revision="cm4dx_gingerbread" />
-
 </manifest>
